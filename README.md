@@ -2,7 +2,7 @@
 Profile
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hola%20👋&fontSize=45)
+![banner](https://capsule-render.vercel.app/api?type=transparent&height=120&text=Hola&fontColor=8B5CF6&fontSize=45)
 
 **IT & Multimedia Technology Student | Aspiring UI/UX Designer & Full Stack Developer**
 
