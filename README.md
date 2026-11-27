@@ -4,7 +4,7 @@ Profile
 
 ![banner](https://capsule-render.vercel.app/api?type=transparent&height=120&text=Hi&fontColor=8B5CF6&fontSize=45)
 
-**IT & Multimedia Technology Student | Aspiring UI/UX Designer & Full Stack Developer**
+**Student | Aspiring UI/UX Designer & Full Stack Developer**
 
 ### Tools I'm exploring
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
